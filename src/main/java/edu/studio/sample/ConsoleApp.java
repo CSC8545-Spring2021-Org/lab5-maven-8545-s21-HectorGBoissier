@@ -6,6 +6,7 @@ public class ConsoleApp {
 
         System.out.println("Hello Maven");
         System.out.println("Making a change");
+        System.out.println("Making a 2nd change");
 
     }
 
